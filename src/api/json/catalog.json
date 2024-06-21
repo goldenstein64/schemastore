@@ -4493,6 +4493,12 @@
       "url": "https://raw.githubusercontent.com/stryker-mutator/stryker/master/packages/api/schema/stryker-core.json"
     },
     {
+      "name": "StyLua Configuration",
+      "description": "Configuration file for StyLua. Documentation: https://github.com/JohnnyMorganz/StyLua",
+      "fileMatch": [".stylua.toml", "stylua.toml"],
+      "url": "https://json.schemastore.org/stylua-0.20.0.json"
+    },
+    {
       "name": "StyleCop Analyzers Configuration",
       "description": "Configuration file for StyleCop Analyzers",
       "fileMatch": ["stylecop.json"],
